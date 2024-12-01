@@ -1,10 +1,10 @@
 
 ---
 
-# **AudioTranscriber** 🎧  
+# **Audio Transcription Pro** 🎧  
 ### **Turn Speech into Text Seamlessly**
 
-AudioTranscriber is an innovative, ad-free audio transcription app designed to convert spoken words into written text with high accuracy and speed. Built with the latest technologies, this app offers a clean, seamless user experience for developers, content creators, and anyone who needs reliable transcription.
+Audio Transcription Pro is a innovative, ad-free audio transcription app designed to convert spoken words into written text with high accuracy and speed. Built with the latest technologies, this app offers a clean, seamless user experience for developers, content creators, and anyone who needs reliable transcription.
 
 ---
 
@@ -29,7 +29,7 @@ AudioTranscriber is an innovative, ad-free audio transcription app designed to c
 ## **📂 How to Run Locally**
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/AudioTranscriber.git
+   git clone https://github.com/KoderKalash/Audio-Transcription-Pro.git
    ```
 2. Navigate into the project directory:
    ```bash
@@ -55,7 +55,7 @@ AudioTranscriber is an innovative, ad-free audio transcription app designed to c
 ---
 
 ## **🌟 Demo**
-Check out the live demo here: [Live Demo Link](https://your-demo-link.com)
+Check out the live demo here: [Live Demo Link](https://audio-transcription-pro.vercel.app/)
 
 ---
 
@@ -79,12 +79,12 @@ Contributions are welcome! If you'd like to improve this app or report a bug:
 
 ## **📧 Contact**
 For questions or feedback, feel free to reach out:  
-- **Email**: your.email@example.com  
-- **Twitter**: [@yourhandle](https://twitter.com/yourhandle)  
-- **LinkedIn**: [Your Name](https://linkedin.com/in/yourprofile)  
+- **Email**: kalashsharma.r@gmail.com  
+- **X [Twitter]**: [@kalash_sharma_](https://x.com/kalash_sharma_)  
+- **LinkedIn**: [Kalash Sharma](https://www.linkedin.com/in/kalash-sharma/)  
 
 ---
 
-### **Made with ❤️ by Kalash Sharma**
+### **Krafted with `<\>` by Kalash**
 
 ---
